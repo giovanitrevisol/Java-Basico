@@ -1,7 +1,6 @@
-package br.com.gt.javacore.aintroducaoclasses.test;
+package br.com.gt.javacore.Aintroducaoclasses.test;
 
-
-import br.com.gt.javacore.aintroducaoclasses.dominio.Professor;
+import br.com.gt.javacore.Aintroducaoclasses.dominio.Professor;
 
 public class ProfessorTest01 {
     public static void main(String[] args) {

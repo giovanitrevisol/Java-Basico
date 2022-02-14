@@ -1,9 +1,8 @@
-package br.com.gt.javacore.aintroducaoclasses.test;
+package br.com.gt.javacore.Aintroducaoclasses.test;
 
-import br.com.gt.javacore.aintroducaoclasses.dominio.Estudante;
+import br.com.gt.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest02 {
-
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         Estudante estudante2 = new Estudante();

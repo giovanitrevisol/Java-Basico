@@ -1,7 +1,6 @@
-package br.com.gt.javacore.aintroducaoclasses.test;
+package br.com.gt.javacore.Aintroducaoclasses.test;
 
-
-import br.com.gt.javacore.aintroducaoclasses.dominio.Carro;
+import br.com.gt.javacore.Aintroducaoclasses.dominio.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

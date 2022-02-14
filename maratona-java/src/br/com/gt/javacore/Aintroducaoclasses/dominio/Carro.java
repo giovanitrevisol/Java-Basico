@@ -1,4 +1,4 @@
-package br.com.gt.javacore.aintroducaoclasses.dominio;
+package br.com.gt.javacore.Aintroducaoclasses.dominio;
 
 public class Carro {
     public String nome;

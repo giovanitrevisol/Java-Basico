@@ -1,0 +1,15 @@
+
+7
+java:S1643"Use a StringBuilder instead.(—†™”úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÃáúÿÿÿÿ
+€
+java:S4144%"cUpdate this method so that its implementation is not identical to "concatStringBuilder" on line 30.(Ü“Ú€8½ú÷ˆ0
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ùØµù
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úãÁö8íô‡÷ˆ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…Û¼ğ8‘¯”÷ˆ0
+E
+java:S1481"*Remove this unused "texto" local variable.(ııƒÑıÿÿÿÿ
+N
+java:S1144"8Remove this unused private "concatStringBuilder" method.(’â²
+T
+java:S1144%"7Remove this unused private "concatStringBuffer" method.(Ü“Ú€8Û–÷ˆ0

@@ -1,0 +1,20 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Giovani" 3 times.(àŠ™
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(²”ş·
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(áÃÇ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÃáúÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "nome3".(ÿËªûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²”ş·
+E
+java:S2201"*The return value of "concat" must be used.(ÄòÓÀüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÿÄåúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(áŒÖ¦øÿÿÿÿ
+E
+java:S1481"*Remove this unused "nome3" local variable.(ÿËªûÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ˆÌ’å
+M	java:S106"9Replace this use of System.out or System.err by a logger.(áÃÇ

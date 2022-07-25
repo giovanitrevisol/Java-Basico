@@ -13,7 +13,6 @@ public class FileTest01 {
         try {
 
             boolean isCreated = file.createNewFile();
-
             System.out.println("Created "+isCreated);
             System.out.println("path "+file.getPath());
             System.out.println("path absolute "+file.getAbsolutePath());
